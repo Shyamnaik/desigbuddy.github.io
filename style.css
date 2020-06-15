@@ -1,3 +1,21 @@
-body{
-    background: red;
+.navbg{
+    background: #198896 !important;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between !important;
+}
+
+.btn-primary{
+    background: #198896 !important;
+}
+
+.card{
+    margin: 20px 0 20px 20px;
+}
+
+.row{
+    justify-content: center;
+   
 }
